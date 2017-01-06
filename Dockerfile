@@ -1,4 +1,4 @@
-# Docker container image to host Entersection MySQL data
+# Docker container image to host Entersection MySQL instance
 FROM mysql:latest
 MAINTAINER gregoryfoster <greg@foojutsu.com>
 ENV MYSQL_ROOT_PASSWORD=123456 \
